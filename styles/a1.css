@@ -62,7 +62,6 @@
     align-items: center;
     width: 1140px;
     height: 1395px;
-    border: 2px solid black;
     padding: 100px  97px;
 
 }
@@ -151,6 +150,29 @@
     padding: 0px;
     margin: 0px 10px;
 
+}
+.section-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+
+}
+.section-description{
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+}
+.subsection-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+}
+.subsection-description{
+    color: rgb(13, 19, 33);
+    opacity: 0.7;    
+    font-size: 16px;
+    font-weight: 400;
 }
 .subsection-btn{
     /* background-color:#FD6E0A ; */
